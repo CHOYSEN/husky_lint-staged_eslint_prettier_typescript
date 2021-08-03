@@ -1,0 +1,5 @@
+coverage
+.gitignore
+.husky
+.prettierignore
+.DS_Store
